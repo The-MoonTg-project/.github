@@ -64,7 +64,7 @@ _Contributions of any type are welcome like modules etc. Feel free to do pull-re
  <li><a href='https://github.com/AbhiTheModder'>AbhiTheModder</a></li>
  </nav> 
  
- <h4>Written on <a href='https://github.com/pyrogram/pyrogram'>Pyrogram❤️</a> and <a href='https://github.com/MarshalX/tgcalls/tree/main/pytgcalls'>pytgcalls❤️</a></h4>
+ <h4>Written on <a href='https://github.com/Mayuri-Chan/pyrofork/'>Pyrofork(Pyrogram)❤️</a> and <a href='https://github.com/MarshalX/tgcalls/tree/main/pytgcalls'>pytgcalls❤️</a></h4>
  
  
 
